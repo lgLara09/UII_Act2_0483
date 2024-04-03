@@ -21,6 +21,7 @@ samples, guidance on mobile development, and a full API reference.
 ## Resultados
 - ![image](https://github.com/lgLara09/UII_Act2_0483/assets/143548080/27b51aa9-3d6d-47d8-8035-c24535184d0e)
 - ![image](https://github.com/lgLara09/UII_Act2_0483/assets/143548080/f0f53608-112a-4aeb-99e4-72e85c92f543)
+- ![image](https://github.com/lgLara09/UII_Act2_0483/assets/143548080/5bfffad0-8b2a-4096-951f-50f4765b526f)
 - ![image](https://github.com/lgLara09/UII_Act2_0483/assets/143548080/d13f37f1-79aa-4a6c-b770-8c401ea0b07d)
 - ![image](https://github.com/lgLara09/UII_Act2_0483/assets/143548080/910a8072-8185-41c2-be05-88db9d37a838)
 - ![image](https://github.com/lgLara09/UII_Act2_0483/assets/143548080/a7bf13f6-9467-4a52-a1a3-fd148e9db1f5)
